@@ -10,9 +10,13 @@ Acesse a pasta clonada localmente
 
 <hr>
 
-3. Adicione o remote upstream para manter seu repositório local atualizado. <br>
+3. Adicione o remote upstream para manter seu repositório local atualizado:
 
 ```$ git remote add upstream https://github.com/marianna-regio/dio-lab-open-source.git; ```
+
+Para ver alterações:
+
+```$ git remote -v ```
 <hr>
 4. Crie uma nova branch que te identifique;
 <hr>
