@@ -5,3 +5,5 @@ Repositório para acompanhamento dos estudos no bootcamp de desenvolvimento de j
 ## Links úteis
 
 [Guia Markdown - Sintaxe Básica](https://www.markdownguide.org/basic-syntax/)
+
+[Commits Convencionais](https://github.com/conventional-commits/conventionalcommits.org)
